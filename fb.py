@@ -1,6 +1,6 @@
 #decompiled by PDM31
 import os, sys
-print '\x1b[1;32mMasukan ID: admin dan Password: indoxploit.id?'
+print '\x1b[1;32mMasukan ID: admin dan Password: indoxploit.id'
 print '\x1b[1;32mSilahkan Login '
 import os, sys
 
